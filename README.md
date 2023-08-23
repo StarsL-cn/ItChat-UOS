@@ -1,3 +1,5 @@
+有问题请拉取本仓库直接安装.
+
 # itchat-uos
 
 [![itchat_vesion](https://img.shields.io/badge/itchat--uos-1.4.1-green)](https://github.com/why2lyj/ItChat-UOS)
